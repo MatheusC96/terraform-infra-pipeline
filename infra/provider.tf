@@ -1,4 +1,4 @@
 
 provider "aws" {
-  region = "sa-east-1a"
+  region = "sa-east-1"
 }
